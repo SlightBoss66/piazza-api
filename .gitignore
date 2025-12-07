@@ -1,0 +1,13 @@
+.env
+
+node_modules/
+
+piazza-api.tar
+piazza-api/
+piazza-api@1.0.0
+node
+
+.idea/
+.DS_Store
+
+rm piazza-api.tar
